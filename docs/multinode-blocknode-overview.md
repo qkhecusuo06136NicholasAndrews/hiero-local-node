@@ -108,3 +108,4 @@ npm run start:multinode:block-node
 - Maintain consistent port numbering across all configuration files
 - Verify all volume mappings are correct before starting the system
 - The first consensus node's configuration remains unchanged, using the default block node setup 
+<!-- Auto-update: 2025-10-16T11:43:04.700294 -->
